@@ -14,3 +14,5 @@ This initial alpha release of Videola currently uses local file storage for vide
 Community contributions (including bug reports) should utilize the [github issue queue](http://github.com/Videola/videola/issues). Additional documentation can be found in [http://github.com/Videola/videola/blob/master/INSTALL.txt](INSTALL.txt).
 
 NOTE: This is an initial alpha release targeted at developers; while we'll try our best, we can't guarantee an upgrade path for future versions as we move towards a 1.0 release. Caveat emptor.
+
+This software distribution was created and posted by [Lullabot](http://www.lullabot.com)
