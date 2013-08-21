@@ -15,4 +15,4 @@ Community contributions (including bug reports) should utilize the [github issue
 
 NOTE: This is an initial alpha release targeted at developers; while we'll try our best, we can't guarantee an upgrade path for future versions as we move towards a 1.0 release. Caveat emptor.
 
-This software distribution was created and posted by [Lullabot](http://www.lullabot.com)
+This software distribution was created and posted by [Lullabot™](http://www.lullabot.com).
