@@ -15,4 +15,5 @@ projects[] = drupal
 ; Setup the videola profile from this make file stub.
 projects[videola][type] = "profile"
 projects[videola][download][type] = "git"
-projects[videola][download][url] = "git://github.com/Videola/videola.git"
+projects[videola][download][url] = "git://github.com/nakedcloud/videola.git"
+projects[videola][download][branch] = "bugfix-services"

@@ -136,8 +136,11 @@ projects[securepages][version] = "1.9"
 projects[semanticviews][subdir] = "contrib"
 projects[semanticviews][version] = "1.1"
 
+projects[services][type] = module
 projects[services][subdir] = "contrib"
-projects[services][version] = "3.x-dev"
+projects[services][download][type] = "git"
+projects[services][download][url] = "git://git.drupal.org/project/services.git"
+projects[services][download][branch] = "6.x-3.x"
 
 projects[services_views][subdir] = "contrib"
 projects[services_views][version] = "1.x-dev"
